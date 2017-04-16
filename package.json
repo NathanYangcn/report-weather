@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NathanYangcn/npm-report-weather"
+    "url": "git+https://github.com/NathanYangcn/report-weather"
   },
   "author": "NathanYang",
   "license": "ISC",
